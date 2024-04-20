@@ -4,8 +4,11 @@
 			"path": "."
 		},
 		{
-			"path": "../../../Desktop/img"
+			"path": "img"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Karas"
+	}
 }
